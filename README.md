@@ -6,7 +6,7 @@
   </thead>
   <tbody>
     <tr>
-      <th><a href="./README.MD">Português</a></th>
+      <th><a href="README.MD">Português</a></th>
     </tr>
     <tr>
       <th><a href="./README.en.md">Inglês</a></th>
