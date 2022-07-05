@@ -6,7 +6,7 @@
   </thead>
   <tbody>
     <tr>
-      <th><a href="README.MD">Português</a></th>
+      <th><a href="./README.md">Português</a></th>
     </tr>
     <tr>
       <th><a href="./README.en.md">Inglês</a></th>
@@ -14,8 +14,8 @@
   </tbody>
 </table>
 <hr/>
+
 # Olá :wave:, Eu sou o Diego!
-<hr/>
 
 ## Um pouco sobre mim.
 - Tenho :two::four: anos.
