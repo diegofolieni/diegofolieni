@@ -6,10 +6,10 @@
   </thead>
   <tbody>
     <tr>
-      <th><a link="./README.MD">Português</a></th>
+      <th><a href="./README.MD">Português</a></th>
     </tr>
     <tr>
-      <th><a link="./README.en.md">Inglês</a></th>
+      <th><a href="./README.en.md">Inglês</a></th>
     </tr>
   </tbody>
 </table>
@@ -33,10 +33,9 @@
 ## Detalhes do GitHub
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegofolieni&theme=vue"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofolieni"/>
-
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=diegofolieni"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofolieni"/>
 </div>
 
 ## Fale Comigo
