@@ -6,16 +6,16 @@
   </thead>
   <tbody>
     <tr>
-      <th><a link="./README.MD">Portuguese</a></th>
+      <th><a href="./README.md">Portuguese</a></th>
     </tr>
     <tr>
-      <th><a link="./README.en.md">English</a></th>
+      <th><a href="./README.en.md">English</a></th>
     </tr>
   </tbody>
 </table>
 <hr/>
+
 # Hi there :wave:, I'm Diego!
-<hr/>
 
 ## A litte about me.
 - I'm :two::four: years old.
